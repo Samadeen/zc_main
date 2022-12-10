@@ -267,10 +267,10 @@ export default [
   },
   {
     key: "bottom_link",
-    en: "Sign Up Now!",
+    en: "Log In!",
     de: "Jetzt anmelden!",
     nl: "Schrijf je nu in!",
-    engb: "Sign Up Now!",
+    engb: "Log In!",
     fr: "Inscrivez-vous dès maintenant !",
     zh: "现在就注册!",
     ar: "سجل الآن!",
